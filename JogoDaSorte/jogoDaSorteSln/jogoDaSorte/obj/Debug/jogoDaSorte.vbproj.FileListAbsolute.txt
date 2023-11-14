@@ -1,0 +1,12 @@
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\bin\Debug\jogoDaSorte.exe.config
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\bin\Debug\jogoDaSorte.exe
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\bin\Debug\jogoDaSorte.pdb
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\bin\Debug\jogoDaSorte.xml
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\obj\Debug\jogoDaSorte.vbproj.AssemblyReference.cache
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\obj\Debug\jogoDaSorte.Form1.resources
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\obj\Debug\jogoDaSorte.Resources.resources
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\obj\Debug\jogoDaSorte.vbproj.GenerateResource.cache
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\obj\Debug\jogoDaSorte.vbproj.CoreCompileInputs.cache
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\obj\Debug\jogoDaSorte.exe
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\obj\Debug\jogoDaSorte.xml
+C:\Users\todeb\Desktop\Programação Visual\JogoDaSorte\jogoDaSorteSln\jogoDaSorte\obj\Debug\jogoDaSorte.pdb
